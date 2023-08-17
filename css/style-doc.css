@@ -1119,3 +1119,129 @@ footer .waves#wave4{
         font-size: 7px;
      }
 }
+
+
+/* responsivo del telefono mediano */
+@media screen and (min-width: 370px) {
+ /* HEADER */
+ .navbar{
+    height: 66px;
+}
+.img-encabezado{
+    height: 50px;
+}
+.logo__navbar--SNIEG{
+    top: -4px;
+    width: 200px;
+}
+.logo__navbar--EDOMEX{
+    top: -2px;
+    right: 35%;
+    width: 8%;
+}
+.logo__navbar--INEGI{
+    top: 5px;
+    width: 30%;
+}
+.linea__navbar-gris{
+    top: 24px;
+}
+.linea__navbar-verde{
+    top: 24px;
+}
+.linea__navbar-azul{
+    top: 24px;
+}
+.linea__navbar-amarrillo{
+    top: 24px;
+
+}
+/* HEADER */
+/* CONTENIDO */
+.titulo{
+    width: 30%;
+    left: 2.5rem;
+}
+.boton.cinco{
+    width: 65px;
+}
+.boton.cinco .icono{
+    right: 7px;
+}
+.boton.cinco:hover{
+    width: 50px;
+}
+.boton.cinco:hover .icono{
+    right: 0;
+}
+
+.menu__archivos{
+    width: 47%;
+    left: 1.5rem;
+}
+.tooltips .icon-info-respo{
+    left: 12rem;
+}
+.caja__info{
+    font-size: 10px;
+    width: 15rem;
+}
+
+
+.previsual{
+    left: 49%;
+}
+.previsual__imagen{
+    top: 10rem;
+    right: -4px;
+    width: 90%;
+}
+
+.dropdown__li{
+    margin-left: 0;
+}
+
+
+.btn-acordeon:checked ~ .contenido__opciones{
+    width: 122px;
+}
+
+.previsual__archivo{
+    left: 10%;
+    top: 20rem;
+}
+.previsual .previsual__archivo--tamaño{
+    width: 190px;
+    height: auto;
+}
+.previsual__archivo__texto{
+    left: 0;
+}
+/* CONTENIDO */
+
+
+
+/* FOOTER */
+.footer_menu--redes img{
+    top: -30px;
+    left: 30px;
+}
+.footer_menu--redes{
+    left: -5.5rem;
+}
+.footer_menu--interes{
+    top: 5.2rem;
+    right: 1rem;
+    text-align: right;
+}
+.copy{
+    text-align: center;
+    right: -7rem;
+    font-size: 11px;
+}
+.depa{
+    padding-top: 0;
+    top: 17.5rem;
+    font-size: 12px;
+}
+}

@@ -1509,7 +1509,7 @@ footer .waves#wave4{
 /* responsivo del telefono */
 
 /* responsivo del telefono */
-@media screen and (max-width: 370px) {
+@media screen and (min-width: 370px) {
     /* HEADER */
     .navbar{
         height: 66px;
@@ -1654,7 +1654,20 @@ footer .waves#wave4{
     /* CONTENIDO */
 
     /* FOOTER */
+    .footer_menu--redes img{
+        top: -30px;
+        left: 30px;
+    }
+    .footer_menu--redes{
+        left: -5.5rem;
+    }
+    .footer_menu--interes{
+        top: 5.2rem;
+        right: 1rem;
+        text-align: right;
+    }
     .copy{
-        right: 5rem;
+        text-align: center;
+        right: -7rem;
     }
 }

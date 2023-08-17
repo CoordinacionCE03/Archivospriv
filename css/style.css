@@ -1507,11 +1507,10 @@ footer .waves#wave4{
 
 
 /* responsivo del telefono */
-
-/* responsivo del telefono */
-@media screen and (min-width: 370px) {
-    /* HEADER */
-    .navbar{
+/* responsivo del telefono chico */
+@media screen and (min-width: 320px) {
+     /* HEADER */
+     .navbar{
         height: 66px;
     }
     .img-encabezado{
@@ -1524,6 +1523,173 @@ footer .waves#wave4{
     .logo__navbar--EDOMEX{
         top: 2px;
         right: 6.7rem;
+        width: 8%;
+    }
+    .logo__navbar--INEGI{
+        top: 5px;
+        width: 30%;
+    }
+    .linea__navbar-gris{
+        bottom: 1px;
+    }
+    .linea__navbar-verde{
+        bottom: 1px;
+    }
+    .linea__navbar-azul{
+        bottom: 1px;
+    }
+    .linea__navbar-amarrillo{
+        bottom: 1px;
+    }
+    /* HEADER */
+
+    /* CONTENIDO */
+    .container-slider{
+        top: 5.5rem;
+    }
+    .titulo{
+        top: -5rem;
+    }
+    .nav .menu{
+        right: -2rem;
+        top: 3.5rem;
+    }
+    .nav__responsive{
+        top: 28rem;
+        right: 1rem;
+        width: 230px;
+        opacity: 1;
+    }
+    .nav__responsive:hover{
+        opacity: .9;
+    }
+    .nav__responsive--li:hover{
+        background-color: rgb(130, 168, 235);
+    }
+    .nav__responsive--li{
+        padding: 5px;
+        margin-bottom: 5px;
+    }
+    .nav__responsive--a{
+        font-size: 15px;/****************************************+*/
+    }
+    body{
+         margin-bottom: 130rem;
+    }
+    .contenido{
+        top: 36rem;
+        height: 106rem;
+    }
+    .contenido label{
+        font-size: 12px;
+    }
+    /* .texto__inicio{
+
+    } */
+    .contenido .texto__inicio-2{
+        top: 22rem;
+        font-size: 13px;
+        text-align: left;
+    }
+    .opciones{
+        top: 26rem;
+    }
+    .opcion1{
+        width: 150px;
+    }
+    .opciones .opcion2{/*misma left opcion derecha*/
+        top: -45px;
+        left: 10rem;
+        width: 150px;
+    }
+    .opciones .opcion3{/*misma left opcion izqui*/
+        left: 5px;
+        top: 0.5rem;
+        width: 150px;
+    }
+    .opciones .opcion4{/*misma left opcion derecha*/
+        top: -5.5rem;
+        left: 10rem;
+        width: 150px;
+    }
+    .opciones .opcion5{/*misma left opcion izqui*/
+        top: -2rem;
+        left: 5px;
+        width: 150px;
+    }
+    .opciones .opcion6{/*misma left derecha*/
+        top: -8rem;
+        left: 10rem;
+        width: 150px;
+    }
+    .opciones .opcion7{/*misma left opcion izqui*/
+        top: -4rem;
+        width: 150px;
+    }
+    .opciones .opcion8{/*misma left derecha*/
+        top: -12.5rem;
+        left: 10rem;
+        width: 150px;
+    }
+    .opciones .opcion8 .opcion-texto{
+        font-size: 8px;
+        text-align: left;
+    }
+    .opciones .opcion9{/*misma left opcion izqui*/
+        top: -9.5rem;
+        left: 90px;
+        width: 150px;
+    }
+    .contenido .texto__inicio-titulo{
+        top: 79rem;
+        left: 5rem;
+    }
+    .contenido .texto__inicio-3{
+        top: 79.5rem;
+        font-size: 13px;
+    }
+    
+    .contenido .texto__inicio-4{
+        top: 94rem;
+        font-size: 13px;
+    }
+
+    /* CONTENIDO */
+
+    /* FOOTER */
+    .footer_menu--redes img{
+        top: -30px;
+        left: 30px;
+    }
+    .footer_menu--redes{
+        left: -5.5rem;
+    }
+    .footer_menu--interes{
+        top: 5.2rem;
+        right: 1rem;
+        text-align: right;
+    }
+    .copy{
+        text-align: center;
+        right: -7rem;
+    }
+}
+/* responsivo del telefono */
+@media screen and (min-width: 370px) {
+     /* HEADER */
+    .navbar{
+        height: 66px;
+    }
+    .img-encabezado{
+        height: 50px;
+    }
+    .logo__navbar--SNIEG{
+        top: -4px;
+        width: 200px;
+    }
+    .logo__navbar--EDOMEX{
+        top: 2px;
+        right: 30%;
         width: 8%;
     }
     .logo__navbar--INEGI{
@@ -1600,7 +1766,7 @@ footer .waves#wave4{
     }
     .opciones .opcion2{/*misma left opcion derecha*/
         top: -45px;
-        left: 10rem;
+        left: 59%;
         width: 150px;
     }
     .opciones .opcion3{/*misma left opcion izqui*/
@@ -1610,7 +1776,7 @@ footer .waves#wave4{
     }
     .opciones .opcion4{/*misma left opcion derecha*/
         top: -5.5rem;
-        left: 10rem;
+        left: 59%;
         width: 150px;
     }
     .opciones .opcion5{/*misma left opcion izqui*/
@@ -1620,7 +1786,7 @@ footer .waves#wave4{
     }
     .opciones .opcion6{/*misma left derecha*/
         top: -8rem;
-        left: 10rem;
+        left: 59%;
         width: 150px;
     }
     .opciones .opcion7{/*misma left opcion izqui*/
@@ -1629,17 +1795,17 @@ footer .waves#wave4{
     }
     .opciones .opcion8{/*misma left derecha*/
         top: -12.5rem;
-        left: 10rem;
+        left: 59%;
         width: 150px;
     }
     .opciones .opcion9{/*misma left opcion izqui*/
         top: -9.5rem;
-        left: 90px;
+        left: 31%;
         width: 150px;
     }
     .contenido .texto__inicio-titulo{
         top: 79rem;
-        left: 5rem;
+        left: 29%;
     }
     .contenido .texto__inicio-3{
         top: 79.5rem;
@@ -1669,5 +1835,9 @@ footer .waves#wave4{
     .copy{
         text-align: center;
         right: -7rem;
+    }
+    .depa{
+        padding-top: 0;
+        top: 17.5rem;
     }
 }

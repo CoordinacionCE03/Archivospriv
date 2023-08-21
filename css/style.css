@@ -830,12 +830,12 @@ header{
         top: 1.8rem;
     }
     .opciones .opcion2{
-        top: -3rem;
-        left: 14rem;
+        top: -2rem;
+        left: 42%;
     }
     .opciones .opcion3{
-        top: -8rem;
-        left: 25rem;
+        top: -7rem;
+        left: 77%;
     }
     .opciones .opcion4{
         top: -6.1rem;
@@ -843,11 +843,11 @@ header{
     }
     .opciones .opcion5{
         top: -11.3rem;
-        left: 14rem;
+        left: 42%;
     } 
     .opciones .opcion6{
         top: -16.5rem;
-        left: 25rem;
+        left: 77%;
     }
     .opciones .opcion7{
         top: -13.6rem;
@@ -855,11 +855,15 @@ header{
     }
     .opciones .opcion8{
         top: -23rem;
-        left: 14rem;
+        left: 37%;
+        width: 131px;
     } 
+    .opciones .opcion8 img{
+        width: 30%;
+    }
     .opciones .opcion9{
         top: -34rem;
-        left: 25rem;
+        left: 77%;
     }
     .opciones .opcion7 .opcion-texto{
         font-size: 10px;
@@ -892,15 +896,15 @@ header{
         top: 11rem;
     }
     .contenido .texto__inicio-titulo{
-            top: 18rem;    
+            top: 43rem;    
             left: 30%;
     }
     .contenido .texto__inicio-3{
         font-size: 10px;
-        top: 19rem;
+        top: 44rem;
     }
     .contenido .texto__inicio-4{
-        top: 27rem;
+        top: 52rem;
         font-size: 9px;
     }.depa{
         left: 10px;
@@ -1508,7 +1512,7 @@ footer .waves#wave4{
 
 /* responsivo del telefono */
 /* responsivo del telefono chico */
-@media screen and (min-width: 320px) {
+@media screen and (max-width: 320px) {
      /* HEADER */
      .navbar{
         height: 66px;
@@ -1676,7 +1680,7 @@ footer .waves#wave4{
 }
 
 /* responsivo del telefono mediano */
-@media screen and (min-width: 370px) {
+@media screen and (max-width: 430px) {
     /* HEADER */
     .navbar{
         height: 66px;

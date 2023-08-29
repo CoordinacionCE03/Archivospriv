@@ -1,5 +1,6 @@
 function mostrar1() {
     document.getElementById('por2023').style.display = 'block';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -34,6 +35,7 @@ function mostrar1() {
 }
 function mostrar2() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'block';
     document.getElementById('por2021').style.display = 'none';
@@ -68,6 +70,7 @@ function mostrar2() {
 }
 function mostrar3() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'block';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -102,6 +105,7 @@ function mostrar3() {
 }
 function mostrar4() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'block';
@@ -136,6 +140,7 @@ function mostrar4() {
 }
 function mostrar5() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -170,6 +175,7 @@ function mostrar5() {
 }
 function mostrar6() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -204,6 +210,7 @@ function mostrar6() {
 }
 function mostrar7() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -238,6 +245,7 @@ function mostrar7() {
 }
 function mostrar8() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -272,6 +280,7 @@ function mostrar8() {
 }
 function mostrar9() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -306,6 +315,7 @@ function mostrar9() {
 }
 function mostrar10() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -340,6 +350,7 @@ function mostrar10() {
 }
 function mostrar11() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -374,6 +385,7 @@ function mostrar11() {
 }
 function mostrar12() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -408,6 +420,7 @@ function mostrar12() {
 }
 function mostrar13() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -442,6 +455,7 @@ function mostrar13() {
 }
 function mostrar14() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -476,6 +490,7 @@ function mostrar14() {
 }
 function mostrar15() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -510,6 +525,7 @@ function mostrar15() {
 }
 function mostrar16() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -544,6 +560,7 @@ function mostrar16() {
 }
 function mostrar17() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -579,6 +596,7 @@ function mostrar17() {
 }
 function mostrar18() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -614,6 +632,7 @@ function mostrar18() {
 }
 function mostrar19() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -649,6 +668,7 @@ function mostrar19() {
 }
 function mostrar20() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -684,6 +704,7 @@ function mostrar20() {
 }
 function mostrar21() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -718,6 +739,7 @@ function mostrar21() {
 }
 function mostrar22() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -752,6 +774,7 @@ function mostrar22() {
 }
 function mostrar23() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -787,6 +810,7 @@ function mostrar23() {
 //NUEVOS ARCHIVOS AÑADIDOS.
 function mostrar24() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -821,6 +845,7 @@ function mostrar24() {
 }
 function mostrar25() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -855,6 +880,7 @@ function mostrar25() {
 }
 function mostrar26() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -889,6 +915,7 @@ function mostrar26() {
 }
 function mostrar27() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -923,6 +950,7 @@ function mostrar27() {
 }
 function mostrar28() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -957,6 +985,7 @@ function mostrar28() {
 }
 function mostrar29() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -991,6 +1020,7 @@ function mostrar29() {
 }
 function mostrar30() {
     document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'none';
     document.getElementById('sor2022').style.display = 'none';
     document.getElementById('por2022').style.display = 'none';
     document.getElementById('por2021').style.display = 'none';
@@ -1024,6 +1054,41 @@ function mostrar30() {
     document.getElementById('pex2012').style.display = 'none';
 }
 
+function mostrar31() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2023').style.display = 'block';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('por2015').style.display = 'none';
+    document.getElementById('sor2015').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('por2014').style.display = 'none';
+    document.getElementById('sor2014').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2014').style.display = 'none';
+    document.getElementById('por2013').style.display = 'none';
+    document.getElementById('sor2013').style.display = 'none';
+    document.getElementById('tor2013').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
+}
 
 //Para ver que opcion esta seleccionada PRIMER AÑO
 document.getElementById("selected").addEventListener("click", cambio);
@@ -1057,6 +1122,7 @@ document.getElementById("selected6").addEventListener("click", cambio6);
     document.getElementById("selected28").addEventListener("click", cambio28);
     document.getElementById("selected29").addEventListener("click", cambio29);
     document.getElementById("selected30").addEventListener("click", cambio30);
+    document.getElementById("selected31").addEventListener("click", cambio31);
 
 var selected = document.getElementById("selected");
 var selected2 = document.getElementById("selected2");
@@ -1089,6 +1155,7 @@ var selected6 = document.getElementById("selected6");
     var selected28 = document.getElementById("selected28");
     var selected29 = document.getElementById("selected29");
     var selected30 = document.getElementById("selected30");
+    var selected31 = document.getElementById("selected31");
 
     
 function cambio(){
@@ -1124,6 +1191,7 @@ function cambio(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 
 }
 function cambio2(){
@@ -1158,6 +1226,7 @@ function cambio2(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio3(){
 	selected.classList.remove("selected");
@@ -1192,6 +1261,7 @@ function cambio3(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio4(){
 	selected.classList.remove("selected");
@@ -1226,6 +1296,7 @@ function cambio4(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio5(){
 	selected.classList.remove("selected");
@@ -1260,6 +1331,7 @@ function cambio5(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio6(){
 	selected.classList.remove("selected");
@@ -1294,6 +1366,7 @@ function cambio6(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 //Selected de los otroas opciones
 function cambio7(){
@@ -1329,6 +1402,7 @@ function cambio7(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio8(){
 	selected.classList.remove("selected");
@@ -1363,6 +1437,7 @@ function cambio8(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio9(){
 	selected.classList.remove("selected");
@@ -1397,6 +1472,7 @@ function cambio9(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio10(){
 	selected.classList.remove("selected");
@@ -1431,6 +1507,7 @@ function cambio10(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio11(){
 	selected.classList.remove("selected");
@@ -1465,6 +1542,7 @@ function cambio11(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio12(){
 	selected.classList.remove("selected");
@@ -1499,6 +1577,7 @@ function cambio12(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio13(){
 	selected.classList.remove("selected");
@@ -1533,6 +1612,7 @@ function cambio13(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio14(){
 	selected.classList.remove("selected");
@@ -1567,6 +1647,7 @@ function cambio14(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio15(){
 	selected.classList.remove("selected");
@@ -1601,6 +1682,7 @@ function cambio15(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio16(){
 	selected.classList.remove("selected");
@@ -1635,6 +1717,7 @@ function cambio16(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio17(){
 	selected.classList.remove("selected");
@@ -1669,6 +1752,7 @@ function cambio17(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 
 function cambio18(){
@@ -1704,6 +1788,7 @@ function cambio18(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio19(){
 	selected.classList.remove("selected");
@@ -1738,6 +1823,7 @@ function cambio19(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio20(){
 	selected.classList.remove("selected");
@@ -1772,6 +1858,7 @@ function cambio20(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio21(){
 	selected.classList.remove("selected");
@@ -1806,6 +1893,7 @@ function cambio21(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio22(){
 	selected.classList.remove("selected");
@@ -1840,6 +1928,7 @@ function cambio22(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio23(){
 	selected.classList.remove("selected");
@@ -1874,6 +1963,7 @@ function cambio23(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 
 function cambio24(){
@@ -1909,6 +1999,7 @@ function cambio24(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio25(){
 	selected.classList.remove("selected");
@@ -1943,6 +2034,7 @@ function cambio25(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio26(){
 	selected.classList.remove("selected");
@@ -1977,6 +2069,7 @@ function cambio26(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio27(){
 	selected.classList.remove("selected");
@@ -2011,6 +2104,7 @@ function cambio27(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio28(){
 	selected.classList.remove("selected");
@@ -2045,6 +2139,7 @@ function cambio28(){
     selected28.classList.add("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio29(){
 	selected.classList.remove("selected");
@@ -2079,6 +2174,7 @@ function cambio29(){
     selected28.classList.remove("selected");
 	selected29.classList.add("selected");
 	selected30.classList.remove("selected");
+	selected31.classList.remove("selected");
 }
 function cambio30(){
 	selected.classList.remove("selected");
@@ -2113,5 +2209,41 @@ function cambio30(){
     selected28.classList.remove("selected");
 	selected29.classList.remove("selected");
 	selected30.classList.add("selected");
+	selected31.classList.remove("selected");
+}
+function cambio31(){
+	selected.classList.remove("selected");
+	selected2.classList.remove("selected");
+	selected3.classList.remove("selected");
+    selected4.classList.remove("selected");
+	selected5.classList.remove("selected");
+	selected6.classList.remove("selected");
+    //Selected del otro opciones
+    selected7.classList.remove("selected");
+    selected8.classList.remove("selected");
+	selected9.classList.remove("selected");
+	selected10.classList.remove("selected");
+    selected11.classList.remove("selected");
+    selected12.classList.remove("selected");
+	selected13.classList.remove("selected");
+	selected14.classList.remove("selected");
+    selected15.classList.remove("selected");
+    selected16.classList.remove("selected");
+	selected17.classList.remove("selected");
+
+    selected18.classList.remove("selected");
+	selected19.classList.remove("selected");
+	selected20.classList.remove("selected");
+    selected21.classList.remove("selected");
+    selected22.classList.remove("selected");
+	selected23.classList.remove("selected");
+	selected24.classList.remove("selected");
+    selected25.classList.remove("selected");
+	selected26.classList.remove("selected");
+    selected27.classList.remove("selected");
+    selected28.classList.remove("selected");
+	selected29.classList.remove("selected");
+	selected30.classList.remove("selected");
+	selected31.classList.add("selected");
 }
 //FIN Para ver que opcion esta seleccionada PRIMER AÑO

@@ -1490,14 +1490,15 @@ footer .waves#wave4{
 
 .depa{
     position: absolute;
-    top: 15rem;
-    font-size: 20px;
+    top: 16rem;
+    font-size: 15px;
     color: #fff;
     transition: all .3s ease;
+    text-align: center;
 }
 .depa:hover{
     color: #a5d9fa;
-    transform: translateY(-15px);
+    transform: translateY(-5px);
 
 }
 /*  FIN Footer */
@@ -1853,6 +1854,7 @@ footer .waves#wave4{
     }
     .depa{
         padding-top: 0;
-        top: 17.5rem;
+        top: 16.5rem;
+        right: -3px;
     }
 }

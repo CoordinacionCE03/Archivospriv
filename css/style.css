@@ -245,11 +245,17 @@ header{
 }
 @media  (max-width: 845px){
     .titulo__complet{
-       display: none;
+       display: block;
+       font-size: 10px;
+       line-height: 15px;
+       top: 60%;
+       left: 5px;
+       padding-left: 3px;
+       text-align: center;
     }
     .titulo__acronomo{
-        top: 60px;
-        left: 25px;
+        top: 55px;
+        left: 40px;
         font-size: 30px;
     }
     
@@ -909,7 +915,7 @@ header{
     }.depa{
         left: 10px;
         padding-top: 2.4rem;
-        font-size: 11px;
+        font-size: 10px;
     }
 }
 @media screen and (max-width: 500px){
@@ -1523,7 +1529,7 @@ footer .waves#wave4{
 }
 /* responsivo del telefono */
 /* responsivo del telefono chico */
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 355px) {
      /* HEADER */
      .navbar{
         height: 66px;
@@ -1564,6 +1570,11 @@ footer .waves#wave4{
     }
     .titulo{
         top: -5rem;
+    }
+    .titulo__acronomo{
+        font-size: 25px;
+        top: 30% !important;
+        left: 30px;
     }
     .nav .menu{
         right: -2rem;
@@ -1733,6 +1744,18 @@ footer .waves#wave4{
     .titulo{
         top: -5rem;
     }
+    .titulo__acronomo{
+        top: 30%;
+    }
+    .titulo__complet{
+        display: block;
+        font-size: 8px;
+        line-height: 15px;
+        top: 60%;
+        left: 5px;
+        padding-left: 3px;
+        text-align: center;
+    }
     .nav .menu{
         right: -2rem;
         top: 3.5rem;
@@ -1854,7 +1877,8 @@ footer .waves#wave4{
     }
     .depa{
         padding-top: 0;
-        top: 16.5rem;
+        top: 16.8rem;
         right: -3px;
+        font-size: 10px;
     }
 }

@@ -1700,7 +1700,12 @@ footer .waves#wave4{
         right: -7rem;
     }
 }
-
+@media screen and (max-width: 712px){
+    .titulo__complet{
+        padding-left: 25px;
+        text-align: left;
+    }
+}
 /* responsivo del telefono mediano */
 @media screen and (max-width: 430px) {
     /* HEADER */
